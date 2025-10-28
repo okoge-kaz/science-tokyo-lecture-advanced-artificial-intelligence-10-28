@@ -1,0 +1,6 @@
+**/outputs/*
+**/plots/*
+**/qout/*
+.mypycache__/
+__pycache__/
+**/qplots/*
